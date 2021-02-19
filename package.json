@@ -1,0 +1,16 @@
+{
+  "name": "ujn-oj-helper",
+  "version": "0.0.1",
+  "description": "UJN OJ helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
